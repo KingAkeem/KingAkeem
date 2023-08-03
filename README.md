@@ -1,16 +1,23 @@
-### Hi there 👋
+## About Me
+I am a tech enthusiast who loves to delve into cutting-edge technologies and frameworks. My journey in the world of programming has been exhilarating, and I'm constantly seeking new opportunities to learn and grow. My areas of interest include full stack development, OSINT, and open-source projects.
 
-<!--
-**KingAkeem/KingAkeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 Current Projects
+- **[TorBot](https://github.com/DedSecInside/TorBot)** 🚀
 
-Here are some ideas to get you started:
+TorBot is an OSINT tool used to scour the dark web for various information using a CLI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[gotor](https://github.com/DedSecInside/gotor)**
+
+A program that provides efficient web scraping services for Tor and non-Tor sites. The program has both a CLI and a REST API.
+
+🔭 Upcoming Projects
+- **AegisGuard**
+
+A robust and flexible security engine for web applications and APIs, providing a wide array of features
+
+🌟 Open Source Contributions
+I'm a firm believer in the power of open-source collaboration. I actively contribute to various projects, both big and small. Working with a diverse community has been incredibly rewarding, and I encourage you to take a look at some of my contributions.
+
+📈 GitHub Stats
+
+[![Akeem King's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingAkeem)](https://github.com/anuraghazra/github-readme-stats)

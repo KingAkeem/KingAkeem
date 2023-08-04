@@ -1,5 +1,5 @@
 ## About Me
-I am a tech enthusiast who loves to delve into cutting-edge technologies and frameworks. My journey in the world of programming has been exhilarating, and I'm constantly seeking new opportunities to learn and grow. My areas of interest include full stack development, OSINT, and open-source projects.
+I am a tech enthusiast who loves to delve into cutting-edge technologies and frameworks. My journey in the world of programming has been exhilarating, and I'm constantly seeking new opportunities to learn and grow. My areas and languages of interest include Python, Go, OSINT, and open-source projects.
 
 ### 🌱 Current Projects
 - **[TorBot](https://github.com/DedSecInside/TorBot)** 🚀

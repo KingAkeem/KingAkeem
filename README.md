@@ -8,10 +8,6 @@ TorBot is an OSINT tool used to scour the dark web for various information using
 
 - **[gotor](https://github.com/DedSecInside/gotor)**
 
-A program that provides efficient web scraping services for Tor and non-Tor sites. The program has both a CLI and a REST API.
-
-- **[tree-viz](https://github.com/tree-viz)**
-
 A set of programs that provides the capability to visualize data structures such as trees based on webpage metadata.
 
 🌟 Open Source Contributions

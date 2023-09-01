@@ -4,15 +4,11 @@ I am a tech enthusiast who loves to delve into cutting-edge technologies and fra
 ### 🌱 Current Projects
 - **[TorBot](https://github.com/DedSecInside/TorBot)** 🚀
 
-TorBot is an OSINT tool used to scour the dark web for various information using a CLI.
+TorBot is a powerful OSINT (Open Source Intelligence) tool designed to meticulously search the depths of the dark web via a command-line interface (CLI), extracting diverse and valuable information.
 
 - **[gotor](https://github.com/DedSecInside/gotor)**
 
-A set of programs that provides the capability to visualize data structures such as trees based on webpage metadata.
-
-🌟 Open Source Contributions
-I'm a firm believer in the power of open-source collaboration. I actively contribute to various projects, both big and small. Working with a diverse community has been incredibly rewarding, and I encourage you to take a look at some of my contributions.
+This program offers robust web-scraping capabilities for efficiently gathering URLs from websites. It can be executed via a versatile Command Line Interface (CLI) or accessed as a REST API. Developed entirely in Golang, it incorporates a sophisticated docker multi-stage build process that encompasses both the Tor network and the server infrastructure.
 
 📈 GitHub Stats
-
 [![Akeem King's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingAkeem)](https://github.com/anuraghazra/github-readme-stats)

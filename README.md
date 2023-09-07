@@ -15,9 +15,11 @@ A tech enthusiast passionate about exploring cutting-edge technologies and frame
 - Full Stack Developer 👨‍💻  
   
 
-- Python and Go buff 💪  
+- Python and Go buff 💪
   
 
+- Ask me about OSINT
+  
 <br/>  
 
 

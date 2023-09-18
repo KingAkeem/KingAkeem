@@ -18,7 +18,7 @@ A tech enthusiast passionate about exploring cutting-edge technologies and frame
 - Python and Go buff 💪
   
 
-- Ask me about OSINT
+- Ask me about OSINT :question:
   
 <br/>  
 

@@ -106,7 +106,11 @@ A tech enthusiast passionate about exploring cutting-edge technologies and frame
 <br/>  
 
 
-## Github Stats  
+## LeetCode Stats
+<div align="center"><img src=https://leetcard.jacoblin.cool/akeemtlking/></div>
+<br/>
+
+## GitHub Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KingAkeem&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingAkeem&hide_border=true&layout=compact" align="center" /></div>  

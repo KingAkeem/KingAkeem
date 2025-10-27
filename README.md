@@ -23,7 +23,7 @@ A tech enthusiast passionate about exploring cutting-edge technologies and frame
 <br/> 
 
 💻 Full Stack Engineering
-<div align="center"> I design and develop **scalable web applications** from frontend to backend. My work spans **React**, **Flask**, and **Go-based microservices**, with a focus on building clean APIs, modern UI/UX, and efficient data pipelines that bring ideas to life. </div> 
+<div align="center"> I design and develop scalable web applications from frontend to backend. My work spans React, Flask, FastAPI, and Go-based microservices, with a focus on building clean APIs, modern UI/UX, and efficient data pipelines, as well as deploying applications at scale using cloud services such as AWS. I also have extensive experience with relational and NoSQL databases, a strong understanding of ACID principles and normalization, and my database of choice is PostgreSQL. </div>
 
 <br/>
 

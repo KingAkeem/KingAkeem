@@ -13,7 +13,7 @@ I build practical systems at the intersection of **software engineering, data, A
 
 ## About me
 
-I'm a software engineer and data technologist with 8+ years of experience building production software, data platforms, and developer tools. I currently build software and data systems at Oracle.
+I'm a software engineer and data technologist with 8+ years of experience building production software, data platforms, and developer tools.
 
 My open-source work focuses on turning difficult data problems—dark-web crawling, entity discovery, semantic retrieval, and service integration—into useful, approachable tools. I enjoy working across the stack, from Python and Go services to React and Electron interfaces, cloud infrastructure, databases, and Linux internals.
 

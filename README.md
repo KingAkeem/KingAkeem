@@ -1,139 +1,93 @@
-### <div align="center">What's up? I'm Akeem
-
-A tech enthusiast passionate about exploring cutting-edge technologies and frameworks, with a thrilling journey in programming. I'm always eager to seize new opportunities for learning and growth, particularly in Python, Go, OSINT, and open-source projects.</div>  
-  
-
-- Theoretical Computer Science background 🖥️💻  
-  
-
-- Open Source Contributor and Aficionado 
-  
-
-- AI Engineer 
-  
-
-- Full Stack Engineer  
-  
-
-- Python and Go enjoyer
-  
-
-- Ask me about OSINT :question:
-  
-<br/> 
-
-💻 Full Stack Engineering
-<div align="center"> I design and develop scalable web applications from frontend to backend. My work spans React, Flask, FastAPI, and Go-based microservices, with a focus on building clean APIs, modern UI/UX, and efficient data pipelines, as well as deploying applications at scale using cloud services such as AWS. I also have extensive experience with relational and NoSQL databases, a strong understanding of ACID principles and normalization, and my database of choice is PostgreSQL. </div>
-
-<br/>
-
-<table align="center">
-<tr>
-  <thead>
-    <th>Frontend</th>
-    <th>Backend</th>
-    <th>DevOps</th>
-  </thead>
-</tr>
-<tr>
-<td valign="top" width="33%">  
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-</div>
-</td>
-
-<td valign="top" width="33%">
-<div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" height="50" /></a>
-</div>
-</td>
-
-<td valign="top" width="33%">
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
-</td>
-</tr>
-</table>  
-
-<br/>  
-
-🤖 AI Engineering
-<div align="center"> I build and deploy intelligent systems powered by modern open-source AI frameworks. My focus is on local inference, retrieval-augmented generation (RAG), and multimodal AI pipelines combining text, audio, and vision models for real-world applications. </div> <br/> 
-
-<table align="center">
-<tr>
-  <thead>
-    <th>Frameworks</th>
-    <th>Model Deployment</th>
-    <th>Core Expertise</th>
-  </thead>
-</tr>
-  
-<tr>
-  <td valign="top" width="33%">
-  <div align="center"> <a href="https://ollama.ai/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ollama.svg" alt="Ollama" height="50" /></a> <a href="https://huggingface.co/" target="_blank"><img style="margin: 10px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="50" /></a> <a href="https://www.langchain.com/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" height="50" /></a> <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50" /></a> <a href="https://github.com/pyannote/pyannote-audio" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/13865484?s=200&v=4" alt="PyAnnote" height="50" /></a> <a href="https://huggingface.co/facebook/seamless-m4t" target="_blank"><img style="margin: 10px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Seamless" height="50" /></div> 
-  </td>
-  
-<td align="center" valign="top" width="33%">
-  <div align="center"> <ul> <li>🧠 Local LLMs using <b>Ollama</b> and <b>Hugging Face Transformers</b></li> <li>🗣️ Speech-to-text via <b>Whisper</b> and speaker diarization using <b>PyAnnote</b></li> <li>🌐 Translation pipelines powered by <b>Seamless M4T</b></li> <li>📖 Optical Character Recognition (OCR) using <b>Tesseract</b></li> <li>🔊 Text-to-speech generation with <b>Kokoro</b></li> <li>🎨 Image generation and synthesis using <b>Stable Diffusion</b></li> <li>⚙️ FastAPI microservices for inference orchestration</li> <li>📦 Dockerized AI endpoints with REST/gRPC APIs</li> <li>🚀 Inference optimization with <b>ONNX Runtime</b> and <b>Torch</b></li> </ul> </div>
-</td>
-
-<td valign="top" width="33%">
-<div align="center"> <ul> <li>📄 Retrieval-Augmented Generation (RAG)</li> <li>📊 Vector Databases (Elasticsearch, MongoDB)</li> <li>🧩 Model quantization & performance tuning</li> <li>🔗 Multi-agent orchestration & automation</li> <li>🧠 Knowledge-graph enrichment & semantic search</li> <li>🧬 Multimodal data ingestion & embedding pipelines</li> </ul> </div>
-</td>
-</tr>
-</table>
-
-## Connect with me  
 <div align="center">
-<a href="https://github.com/KingAkeem" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/akeemtlking" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>  
-  
-<br/>  
 
-## GitHub Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=KingAkeem&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+# Hey, I'm Akeem King 👋
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingAkeem&hide_border=true&layout=compact" align="center" /></div>  
+### Software Engineer · Data Technologist · Open-Source Builder
 
-<br/>  
+I build practical systems at the intersection of **software engineering, data, AI, and OSINT**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akeem_King-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akeemtlking/)
+[![GitHub](https://img.shields.io/badge/GitHub-KingAkeem-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KingAkeem)
+
+</div>
+
+## About me
+
+I'm a software engineer and data technologist with 8+ years of experience building production software, data platforms, and developer tools. I currently build software and data systems at Oracle.
+
+My open-source work focuses on turning difficult data problems—dark-web crawling, entity discovery, semantic retrieval, and service integration—into useful, approachable tools. I enjoy working across the stack, from Python and Go services to React and Electron interfaces, cloud infrastructure, databases, and Linux internals.
+
+- 🔎 Creator and maintainer of open-source OSINT projects
+- 📄 Co-author of the published research chapter [*TorBot: Open Source Intelligence Tool for Dark Web*](https://doi.org/10.1007/978-981-15-0146-3_19)
+- 🤖 Building local AI, RAG, semantic-search, and multimodal data workflows
+- 🧰 Most at home with Python, Go, TypeScript, PostgreSQL, and Linux
+- 💬 Ask me about OSINT, backend architecture, data engineering, or applied AI
+
+## Selected open-source work
+
+| Project | What it does | Highlights |
+| --- | --- | --- |
+| [**TorBot**](https://github.com/DedSecInside/TorBot) | Crawls and maps Tor and surface-web resources for open-source intelligence research. | Python · OWASP project · [![GitHub stars](https://img.shields.io/github/stars/DedSecInside/TorBot?style=flat&label=stars)](https://github.com/DedSecInside/TorBot) |
+| [**GoTor**](https://github.com/DedSecInside/gotor) | Provides Tor-aware web crawling through a CLI and REST API. | Go · Docker · [![GitHub stars](https://img.shields.io/github/stars/DedSecInside/gotor?style=flat&label=stars)](https://github.com/DedSecInside/gotor) |
+| [**OSINT Services Platform**](https://github.com/osint-services/platform) | Combines public-data APIs and user-supplied datasets in an investigation workspace. | FastAPI · Electron · nginx · SQLite |
+| [**Personal RAG**](https://github.com/KingAkeem/personal-rag) | A self-hosted assistant for private, semantic search and chat over personal documents. | Ollama · Elasticsearch · Gradio · Docker |
+| [**MT7902 Linux Driver**](https://github.com/KingAkeem/mt7902) | Packages upstream MT7902 Wi-Fi support as a focused out-of-tree Linux module. | C · Linux kernel · `mac80211` |
+
+<details>
+<summary><strong>More projects</strong></summary>
+
+<br>
+
+- [**twitterbot**](https://github.com/KingAkeem/twitterbot) — a React and Go interface for social-media OSINT
+- [**URL-Graph**](https://github.com/KingAkeem/url-graph) — relationship mapping for URLs with Python and Neo4j
+- [**easy-store**](https://github.com/KingAkeem/easy-store) — a Dockerized FastAPI service for JSON and file storage
+- [**kingOS**](https://github.com/KingAkeem/kingOS) — a small 32-bit operating system targeting x86 CPUs
+- [**go-dms**](https://github.com/KingAkeem/go-dms) — a Go library for geographic coordinate conversion
+
+</details>
+
+## Toolbox
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Backend & data**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**AI & application development**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+
+**Cloud & infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+## Let's connect
+
+I'm always interested in thoughtful conversations and collaborations around open source, OSINT, data platforms, and applied AI. The best place to reach me is [LinkedIn](https://www.linkedin.com/in/akeemtlking/).
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
-<br />
+
+![Profile views](https://komarev.com/ghpvc/?username=KingAkeem&style=flat-square&color=0A66C2)
+
+</div>

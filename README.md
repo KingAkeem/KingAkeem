@@ -85,9 +85,3 @@ My open-source work focuses on turning difficult data problems—dark-web crawli
 ## Let's connect
 
 I'm always interested in thoughtful conversations and collaborations around open source, OSINT, data platforms, and applied AI. The best place to reach me is [LinkedIn](https://www.linkedin.com/in/akeemtlking/).
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=KingAkeem&style=flat-square&color=0A66C2)
-
-</div>
